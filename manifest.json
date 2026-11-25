@@ -1,6 +1,6 @@
 {
-  "name": "Alpine Twilight",
-  "description": "A theme based on the Matterhorn at sunset. Deep indigo shadows, crisp snow whites, and warm peach sky accents.",
+  "name": "Alpine Twilight (Immersive)",
+  "description": "Matterhorn sunset theme. Deep indigo shadows, snow whites, and sunset peach accents. Optimized for members list and profile popouts.",
   "authors": [
     {
       "name": "Custom"
@@ -13,20 +13,20 @@
       "#f2f4f7"
     ],
     "BACKGROUND_SECONDARY": [
-      "#1c2433",
-      "#e3e6eb"
+      "#1c2433cc",
+      "#e3e6ebcc"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#161e2b",
-      "#d6dae1"
+      "#161e2bcc",
+      "#d6dae1cc"
     ],
     "BACKGROUND_TERTIARY": [
-      "#161e2b",
-      "#d6dae1"
+      "#1c2433cc",
+      "#d6dae1cc"
     ],
     "BACKGROUND_FLOATING": [
-      "#2c3545",
-      "#ffffff"
+      "#202838e6",
+      "#ffffffe6"
     ],
     "BACKGROUND_ACCENT": [
       "#1c2433",
