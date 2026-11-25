@@ -1,44 +1,44 @@
 {
-  "name": "Chillax",
-  "description": "The theme where calm meets customization. Mobile port of Chillax by wq / Chillax Squad (red accent).",
+  "name": "Alpine Twilight",
+  "description": "A theme based on the Matterhorn at sunset. Deep indigo shadows, crisp snow whites, and warm peach sky accents.",
   "authors": [
     {
-      "name": "Chillax Squad (original)"
+      "name": "Custom"
     }
   ],
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#1a1a1a",
-      "#f0f0f0"
+      "#141a26",
+      "#f2f4f7"
     ],
     "BACKGROUND_SECONDARY": [
-      "#242424",
-      "#d1d1d1"
+      "#1c2433",
+      "#e3e6eb"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#1b1b1b",
-      "#c4c4c4"
+      "#161e2b",
+      "#d6dae1"
     ],
     "BACKGROUND_TERTIARY": [
-      "#1b1b1b",
-      "#c4c4c4"
+      "#161e2b",
+      "#d6dae1"
     ],
     "BACKGROUND_FLOATING": [
-      "#333135",
-      "#dfdfdf"
+      "#2c3545",
+      "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
-      "#242424",
-      "#1b1b1b"
+      "#1c2433",
+      "#161e2b"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#1a1a1a",
-      "#f0f0f0"
+      "#141a26",
+      "#f2f4f7"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#242424",
-      "#d1d1d1"
+      "#1c2433",
+      "#e3e6eb"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
       "#ffffff0e",
@@ -65,52 +65,52 @@
       "#00000000"
     ],
     "CHANNEL_TEXT_AREA_BACKGROUND": [
-      "#242424",
-      "#d1d1d1"
+      "#1c2433",
+      "#e3e6eb"
     ],
     "HEADER_PRIMARY": [
       "#ffffff",
-      "#000000"
+      "#141a26"
     ],
     "HEADER_SECONDARY": [
-      "#b9bbbe",
-      "#3f3f3f"
+      "#aeb6c4",
+      "#4b5563"
     ],
     "TEXT_NORMAL": [
-      "#dcddde",
-      "#303030"
+      "#dce1e9",
+      "#2c3545"
     ],
     "TEXT_MUTED": [
-      "#9d9d9d",
-      "#333333"
+      "#8e99ab",
+      "#6b7280"
     ],
     "TEXT_LINK": [
-      "#fb5454",
-      "#fb5454"
+      "#f4a28c",
+      "#e07a5f"
     ],
     "TEXT_BRAND": [
-      "#fb5454",
-      "#fb5454"
+      "#f4a28c",
+      "#e07a5f"
     ],
     "CHANNELS_DEFAULT": [
-      "#8e9297",
-      "#585b5e"
+      "#8e99ab",
+      "#6b7280"
     ],
     "INTERACTIVE_NORMAL": [
-      "#b9bbbe",
-      "#3a3a3a"
+      "#aeb6c4",
+      "#4b5563"
     ],
     "INTERACTIVE_HOVER": [
-      "#dcddde",
-      "#333333"
+      "#dce1e9",
+      "#2c3545"
     ],
     "INTERACTIVE_ACTIVE": [
       "#ffffff",
-      "#000000"
+      "#141a26"
     ],
     "INTERACTIVE_MUTED": [
-      "#4f545c",
-      "#4f545c"
+      "#4a5568",
+      "#9ca3af"
     ],
     "STATUS_POSITIVE_BACKGROUND": [
       "#1df594",
@@ -134,19 +134,19 @@
     ]
   },
   "rawColors": {
-    "BRAND_260": "#fff0f0",
-    "BRAND_360": "#ff8080",
-    "BRAND_500": "#fb5454",
-    "BRAND_530": "#e24a4a",
-    "BRAND_600": "#c93f3f",
-    "BRAND_700": "#a63333",
-    "PRIMARY_700": "#1b1b1b",
-    "PRIMARY_660": "#202020",
-    "PRIMARY_630": "#242424",
-    "PRIMARY_600": "#333135",
-    "PRIMARY_500": "#4f545c",
-    "PRIMARY_400": "#9d9d9d",
-    "PRIMARY_360": "#b9bbbe",
-    "PRIMARY_300": "#dcddde"
+    "BRAND_260": "#fff3f0",
+    "BRAND_360": "#f8c5b8",
+    "BRAND_500": "#f4a28c",
+    "BRAND_530": "#e08d77",
+    "BRAND_600": "#c47862",
+    "BRAND_700": "#a85f4b",
+    "PRIMARY_700": "#141a26",
+    "PRIMARY_660": "#1a2231",
+    "PRIMARY_630": "#1c2433",
+    "PRIMARY_600": "#2c3545",
+    "PRIMARY_500": "#4a5568",
+    "PRIMARY_400": "#8e99ab",
+    "PRIMARY_360": "#aeb6c4",
+    "PRIMARY_300": "#dce1e9"
   }
 }
